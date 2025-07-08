@@ -52,3 +52,10 @@ This version is a **first milestone** and will be improved with better models an
 ```bash
 Input Question: What is the document about?
 Output: the document is about human rights related to human rights...
+
+## 🐍 Python Version
+
+This project was tested using:
+
+```bash
+Python 3.10
